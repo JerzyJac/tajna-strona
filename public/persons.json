@@ -1,0 +1,13 @@
+[
+    {
+      "name": "Jan Kowalski",
+      "position": "CEO",
+      "email": "jan.kowalski@example.com"
+    },
+    {
+      "name": "Alicja Nowak",
+      "position": "CTO",
+      "email": "alicja.nowak@example.com"
+    }
+  ]
+  
