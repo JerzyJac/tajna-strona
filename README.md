@@ -7,7 +7,7 @@
 ## Instalacja
 
 1. Sklonuj repozytorium:
-   git clone https://github.com/twoj-github/tajna-strona.git
+   git clone https://github.com/JerzyJac/tajna-strona.git
 
 2. Przejdź do katalogu projektu:
    cd tajna-strona
