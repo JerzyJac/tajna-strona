@@ -4,7 +4,6 @@ const About = () => {
   const [teamMembers, setTeamMembers] = useState([]);
 
   useEffect(() => {
-    // Fetch data from the local JSON file
     fetch("/persons.json")
       .then((response) => response.json())
       .then((data) => setTeamMembers(data))

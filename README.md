@@ -39,4 +39,4 @@ Aplikacja zostanie uruchomiona na `http://localhost:3000`.
 
 ## Live Preview
 
-Aplikacja jest dostępna pod adresem [GitHub Pages/Netlify link].
+Aplikacja jest dostępna pod adresem https://famous-cranachan-22152d.netlify.app/
